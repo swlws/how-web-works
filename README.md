@@ -1,8 +1,6 @@
 # How Web Works
 
-stash dev2 01
-
-11
+project 222
 
 What happens behind the scenes when we type google.com in a browser?
 
